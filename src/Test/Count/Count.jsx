@@ -8,4 +8,3 @@ function Count({ count }) {
 }
 
 export default Count;
-//
